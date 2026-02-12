@@ -1,0 +1,2 @@
+# Trustworthy-Al-in-Healthcare-A-Hospital-Pharmacy-Supply-Chain-Chatbot
+AI chatbot designed to accelerate critical supply-chain workflows in hospital pharmacy operations. The system consolidates fragmented data from ERP systems, warehouse management platforms, FDA Orange Book, and ASHP Guidelines into a single conversational interface. Evaluated on 3 production style modes (Retrieval only, RAG, and LLM-Only)
